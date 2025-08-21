@@ -50,10 +50,10 @@
 | **Email Group** | Remove from `sascoAll` |
 | **Applications** | Remove from CARES, infoCARE |
 | **Security Tools** | Remove from Checkpoint |
-| **Endpoint Protection** | - Locate endpoint<br>- Disable Tamper Protection<br>- Delete endpoint |
+| **Endpoint Protection** | Barracuda - Locate endpoint<br>- Disable Tamper Protection<br>- Delete endpoint |
 | **VPN Access** | - Remove from CCK Firewall<br>- Delete VPN folder from IT SharePoint |
 | **Action1** | - Locate endpoint<br>- Click 3 dots → Remove endpoint |
-| **Barracuda** | Remove from Phishing Campaign Address Book |
+| **Barracuda** | Remove from Phishing Campaign Address Book "sascoAll" |
 
 ---
 
