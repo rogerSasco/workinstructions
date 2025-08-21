@@ -1,4 +1,4 @@
-Absolutely, Roger. Here's a structured, point-form summary of the **New Staff Onboarding Work Instruction (WI-IT-09)** in table format for easier reference. I've grouped the content by section and task category for clarity:
+content by section and task category for clarity:
 
 ---
 
@@ -65,4 +65,3 @@ Absolutely, Roger. Here's a structured, point-form summary of the **New Staff On
 
 ---
 
-Let me know if you'd like this exported into a shareable format or embedded into a SharePoint checklist template.
